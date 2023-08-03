@@ -1,5 +1,5 @@
 const nameGirl = 'Friend';
-const giftUrl = 'https://quandeptraivl.github.io/happpy-birtday/timeline.html';
+const giftUrl = 'https://lamlun2008.github.io/happpy-birtday/index.html';
 const eventName = 'Chúc mừng sinh nhật';
 const titleCard = 'Tặng bạn lắm';
 const contentCard = 'Chúc bạn có một ngày sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với bạn trong hôm nay và cả những ngày sau';
